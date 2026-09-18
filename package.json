@@ -1,0 +1,10 @@
+{
+  "name": "nicehl-preseason-championship",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-data.mjs",
+    "test": "node scripts/test.mjs",
+    "validate-data": "node scripts/validate-data.mjs"
+  }
+}

@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111318">
+  <meta name="description" content="Live NiceHL standings scored entirely from NHL preseason games.">
+  <title>NiceHL Preseason Championship</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ice-glow ice-glow-one" aria-hidden="true"></div>
+  <div class="ice-glow ice-glow-two" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="NiceHL Preseason Championship home">
+      <span class="brand-mark">N</span>
+      <span>
+        <strong>NiceHL</strong>
+        <small>Preseason Championship</small>
+      </span>
+    </a>
+    <div class="live-status" id="liveStatus">
+      <span class="status-dot"></span>
+      <span>Loading standings</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="heroTitle">
+      <div class="hero-copy">
+        <p class="eyebrow">2026–27 NHL PRESEASON</p>
+        <h1 id="heroTitle">Every owned player.<br><span>Every preseason point.</span></h1>
+        <p class="hero-description">All 375 rostered players count. No starters, no bench and no lineup decisions—just the full NiceHL rosters competing across the NHL preseason.</p>
+      </div>
+      <div class="leader-card" id="leaderCard" aria-live="polite">
+        <span class="leader-label">Championship leader</span>
+        <div class="leader-badge skeleton"></div>
+        <div>
+          <strong>Loading…</strong>
+          <small>Waiting for standings</small>
+        </div>
+      </div>
+    </section>
+
+    <section class="snapshot" aria-label="Preseason summary">
+      <div class="stat-card"><span>Games counted</span><strong id="gamesCount">—</strong><small id="gamesCaption">NHL preseason games</small></div>
+      <div class="stat-card"><span>Players dressed</span><strong id="playersCount">—</strong><small>of 375 rostered players</small></div>
+      <div class="stat-card"><span>Completed through</span><strong id="throughDate">—</strong><small id="updatedCaption">Loading latest data</small></div>
+    </section>
+
+    <nav class="view-tabs" aria-label="Championship views">
+      <button class="tab is-active" type="button" data-view="standings">Standings</button>
+      <button class="tab" type="button" data-view="players">Player leaders</button>
+      <button class="tab" type="button" data-view="race">The race</button>
+      <button class="tab" type="button" data-view="scoring">Scoring</button>
+    </nav>
+
+    <section class="view-panel is-active" id="standingsView" data-panel="standings">
+      <div class="section-heading">
+        <div><p class="eyebrow">FULL-ROSTER TOTALS</p><h2>Preseason standings</h2></div>
+        <p>Choose a team to see every player and scoring category.</p>
+      </div>
+      <div class="podium" id="podium"></div>
+      <div class="table-shell">
+        <table class="standings-table">
+          <thead><tr><th>Rank</th><th>Team</th><th class="numeric">Points</th><th class="numeric">Last night</th><th class="numeric">Dressed</th><th>Leading scorer</th></tr></thead>
+          <tbody id="standingsBody"><tr><td colspan="6" class="loading-row">Loading standings…</td></tr></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="view-panel" id="playersView" data-panel="players">
+      <div class="section-heading">
+        <div><p class="eyebrow">INDIVIDUAL TOTALS</p><h2>Preseason player leaders</h2></div>
+        <p>NiceHL points earned in NHL preseason games.</p>
+      </div>
+      <div class="player-grid" id="playerLeaders"></div>
+    </section>
+
+    <section class="view-panel" id="raceView" data-panel="race">
+      <div class="section-heading">
+        <div><p class="eyebrow">NIGHT-BY-NIGHT</p><h2>The championship race</h2></div>
+        <p>Cumulative points for the current top six teams.</p>
+      </div>
+      <div class="chart-card" id="raceChart"></div>
+    </section>
+
+    <section class="view-panel" id="scoringView" data-panel="scoring">
+      <div class="section-heading">
+        <div><p class="eyebrow">NICEHL RULES</p><h2>How points are scored</h2></div>
+        <p>The same scoring system used during the NiceHL regular season.</p>
+      </div>
+      <div class="scoring-grid">
+        <article class="scoring-card"><h3>Skaters</h3><dl><div><dt>Goal</dt><dd>5</dd></div><div><dt>Assist</dt><dd>3</dd></div><div><dt>Blocked shot</dt><dd>1</dd></div><div><dt>Power-play point</dt><dd>1</dd></div><div><dt>Short-handed point</dt><dd>2</dd></div><div><dt>Hat trick</dt><dd>3</dd></div></dl></article>
+        <article class="scoring-card"><h3>Goaltenders</h3><dl><div><dt>Win</dt><dd>8</dd></div><div><dt>Game started</dt><dd>3</dd></div><div><dt>Goal against</dt><dd>−1</dd></div><div><dt>Regulation loss</dt><dd>2</dd></div><div><dt>Shutout</dt><dd>4</dd></div><div><dt>OT/SO loss</dt><dd>3</dd></div><div><dt>Overtime win</dt><dd>−1</dd></div></dl></article>
+        <article class="rule-card"><h3>Roster rule</h3><p>Every player owned at the roster lock counts, including active, reserve, minor-league and injured players. A player who does not appear in an NHL preseason game contributes zero.</p><p>Goalie goals, assists and special-teams points also use the skater values.</p></article>
+      </div>
+    </section>
+  </main>
+
+  <footer><span>NiceHL Preseason Championship</span><span id="footerUpdate">Waiting for first update</span></footer>
+
+  <dialog class="team-dialog" id="teamDialog">
+    <div class="dialog-top">
+      <div id="dialogTeamHeading"></div>
+      <button class="close-button" type="button" id="closeDialog" aria-label="Close team details">×</button>
+    </div>
+    <div class="team-summary" id="teamSummary"></div>
+    <div class="table-shell player-table-shell">
+      <table class="player-table">
+        <thead><tr><th>Player</th><th>Pos</th><th class="numeric">GP</th><th class="numeric">G</th><th class="numeric">A</th><th class="numeric">BLK</th><th class="numeric">PPP</th><th class="numeric">SHP</th><th class="numeric">HT</th><th class="numeric">W</th><th class="numeric">GS</th><th class="numeric">GA</th><th class="numeric">L</th><th class="numeric">OTL</th><th class="numeric">SO</th><th class="numeric">OTW</th><th class="numeric">PTS</th></tr></thead>
+        <tbody id="teamPlayers"></tbody>
+      </table>
+    </div>
+  </dialog>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

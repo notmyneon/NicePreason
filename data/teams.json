@@ -1,0 +1,18 @@
+{
+  "ACC": { "name": "Alberta Cobra Chickens", "primary": "#0f4c3a", "accent": "#d9a441" },
+  "BIB": { "name": "Bowness Ice Beavers", "primary": "#6b351b", "accent": "#d9a66f" },
+  "CSS": { "name": "Cantuar Slough Sharks", "primary": "#0b5666", "accent": "#69c3cc" },
+  "DRIFT": { "name": "Driftless Hockey Club", "primary": "#20334f", "accent": "#9fb2cb" },
+  "Fishers": { "name": "Steel Valley Fishercats", "primary": "#2b3037", "accent": "#e0aa3e" },
+  "HPH": { "name": "High Point Herons", "primary": "#174b62", "accent": "#9fd6dd" },
+  "LYON": { "name": "Les Rois de Lyon", "primary": "#172f6b", "accent": "#d6b65d" },
+  "MPV": { "name": "Mt. Pearl Vikings", "primary": "#412564", "accent": "#d8b15c" },
+  "Metz17": { "name": "Scotty", "primary": "#195f5f", "accent": "#d9e4df" },
+  "PBW": { "name": "Pacifica Blackwall", "primary": "#111827", "accent": "#42b7c8" },
+  "POT": { "name": "Potomac Poutine", "primary": "#7b1e2d", "accent": "#e2b84c" },
+  "PPJ": { "name": "Pennant Pumpjacks", "primary": "#8a3c16", "accent": "#e4b84d" },
+  "RCBW": { "name": "Rockaway Brattwursts", "primary": "#5a2317", "accent": "#e1a650" },
+  "SHB": { "name": "Southside Hellbats", "primary": "#171717", "accent": "#c43d3d" },
+  "SYN": { "name": "Synth City Sphynx", "primary": "#5b267c", "accent": "#e69bb7" },
+  "WWP": { "name": "Woodland Whistle Pigs", "primary": "#bf423b", "accent": "#87d8c3" }
+}
