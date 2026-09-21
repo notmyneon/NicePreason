@@ -4,9 +4,9 @@
   "seasonLabel": "2026–27",
   "preseasonStart": "2026-09-19",
   "preseasonEnd": "2026-09-26",
-  "updatedAt": "2026-09-21T02:11:20.740Z",
+  "updatedAt": "2026-09-21T15:42:16.340Z",
   "completedThrough": "2026-09-20",
-  "gamesProcessed": 13,
+  "gamesProcessed": 14,
   "scheduledGames": 65,
   "standings": [
     {
@@ -16,13 +16,28 @@
       "accent": "#e2b84c",
       "totalPoints": 43,
       "nightPoints": 27,
-      "playersAppeared": 7,
+      "playersAppeared": 8,
       "rosterSize": 22,
       "topScorer": {
         "name": "Beckett Sennecke",
         "points": 19
       },
       "rank": 1
+    },
+    {
+      "teamCode": "PPJ",
+      "teamName": "Pennant Pumpjacks",
+      "primary": "#8a3c16",
+      "accent": "#e4b84d",
+      "totalPoints": 41,
+      "nightPoints": 32,
+      "playersAppeared": 7,
+      "rosterSize": 26,
+      "topScorer": {
+        "name": "Leo Carlsson",
+        "points": 11
+      },
+      "rank": 2
     },
     {
       "teamCode": "LYON",
@@ -37,21 +52,6 @@
         "name": "Brady Tkachuk",
         "points": 16
       },
-      "rank": 2
-    },
-    {
-      "teamCode": "PPJ",
-      "teamName": "Pennant Pumpjacks",
-      "primary": "#8a3c16",
-      "accent": "#e4b84d",
-      "totalPoints": 34,
-      "nightPoints": 25,
-      "playersAppeared": 7,
-      "rosterSize": 26,
-      "topScorer": {
-        "name": "Leo Carlsson",
-        "points": 11
-      },
       "rank": 3
     },
     {
@@ -59,9 +59,9 @@
       "teamName": "Cantuar Slough Sharks",
       "primary": "#0b5666",
       "accent": "#69c3cc",
-      "totalPoints": 29,
-      "nightPoints": 14,
-      "playersAppeared": 8,
+      "totalPoints": 31,
+      "nightPoints": 16,
+      "playersAppeared": 9,
       "rosterSize": 23,
       "topScorer": {
         "name": "Andrei Vasilevskiy",
@@ -119,9 +119,9 @@
       "teamName": "Steel Valley Fishercats",
       "primary": "#2b3037",
       "accent": "#e0aa3e",
-      "totalPoints": 23,
-      "nightPoints": 12,
-      "playersAppeared": 7,
+      "totalPoints": 24,
+      "nightPoints": 13,
+      "playersAppeared": 8,
       "rosterSize": 24,
       "topScorer": {
         "name": "Jake O'Brien",
@@ -181,7 +181,7 @@
       "accent": "#d9e4df",
       "totalPoints": 16,
       "nightPoints": 13,
-      "playersAppeared": 4,
+      "playersAppeared": 5,
       "rosterSize": 24,
       "topScorer": {
         "name": "Aleksander Barkov",
@@ -1621,6 +1621,33 @@
           }
         },
         {
+          "name": "Devin Cooley",
+          "rosterPosition": "G",
+          "nhlId": 8482445,
+          "nhlPosition": "G",
+          "nhlTeam": "CGY",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8482445.png",
+          "appeared": true,
+          "points": 2,
+          "nightPoints": 2,
+          "stats": {
+            "games": 1,
+            "goals": 0,
+            "assists": 0,
+            "blocks": 0,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 1,
+            "goalsAgainst": 3,
+            "losses": 1,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
           "name": "Adam Novotny",
           "rosterPosition": "F",
           "nhlId": 8486074,
@@ -1706,33 +1733,6 @@
           "rosterPosition": "F",
           "nhlId": null,
           "nhlPosition": "F",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
-          "points": 0,
-          "nightPoints": 0,
-          "stats": {
-            "games": 0,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 0,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
-          "name": "Devin Cooley",
-          "rosterPosition": "G",
-          "nhlId": null,
-          "nhlPosition": "G",
           "nhlTeam": "",
           "headshot": "",
           "appeared": false,
@@ -2850,6 +2850,33 @@
           }
         },
         {
+          "name": "Zayne Parekh",
+          "rosterPosition": "D",
+          "nhlId": 8484768,
+          "nhlPosition": "D",
+          "nhlTeam": "CGY",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8484768.png",
+          "appeared": true,
+          "points": 1,
+          "nightPoints": 1,
+          "stats": {
+            "games": 1,
+            "goals": 0,
+            "assists": 0,
+            "blocks": 1,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
           "name": "Brad Marchand",
           "rosterPosition": "F",
           "nhlId": null,
@@ -3320,33 +3347,6 @@
           "nightPoints": 0,
           "stats": {
             "games": 1,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 0,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
-          "name": "Zayne Parekh",
-          "rosterPosition": "D",
-          "nhlId": null,
-          "nhlPosition": "D",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
-          "points": 0,
-          "nightPoints": 0,
-          "stats": {
-            "games": 0,
             "goals": 0,
             "assists": 0,
             "blocks": 0,
@@ -5904,15 +5904,15 @@
         {
           "name": "Rory Kerins",
           "rosterPosition": "F",
-          "nhlId": null,
-          "nhlPosition": "F",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
+          "nhlId": 8482209,
+          "nhlPosition": "C",
+          "nhlTeam": "CGY",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8482209.png",
+          "appeared": true,
           "points": 0,
           "nightPoints": 0,
           "stats": {
-            "games": 0,
+            "games": 1,
             "goals": 0,
             "assists": 0,
             "blocks": 0,
@@ -7052,15 +7052,15 @@
         {
           "name": "Matvei Gridin",
           "rosterPosition": "F",
-          "nhlId": null,
-          "nhlPosition": "F",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
+          "nhlId": 8484860,
+          "nhlPosition": "R",
+          "nhlTeam": "CGY",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8484860.png",
+          "appeared": true,
           "points": 0,
           "nightPoints": 0,
           "stats": {
-            "games": 0,
+            "games": 1,
             "goals": 0,
             "assists": 0,
             "blocks": 0,
@@ -7257,6 +7257,33 @@
           "nightPoints": 7,
           "stats": {
             "games": 1,
+            "goals": 1,
+            "assists": 0,
+            "blocks": 1,
+            "powerPlayPoints": 1,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
+          "name": "Jagger Firkus",
+          "rosterPosition": "F",
+          "nhlId": 8483442,
+          "nhlPosition": "R",
+          "nhlTeam": "SEA",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8483442.png",
+          "appeared": true,
+          "points": 7,
+          "nightPoints": 7,
+          "stats": {
+            "games": 2,
             "goals": 1,
             "assists": 0,
             "blocks": 1,
@@ -7554,33 +7581,6 @@
           "nightPoints": 0,
           "stats": {
             "games": 0,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 0,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
-          "name": "Jagger Firkus",
-          "rosterPosition": "F",
-          "nhlId": 8483442,
-          "nhlPosition": "R",
-          "nhlTeam": "SEA",
-          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8483442.png",
-          "appeared": true,
-          "points": 0,
-          "nightPoints": 0,
-          "stats": {
-            "games": 1,
             "goals": 0,
             "assists": 0,
             "blocks": 0,
@@ -10516,16 +10516,16 @@
       "totals": {
         "ACC": 9,
         "BIB": 19,
-        "CSS": 29,
+        "CSS": 31,
         "DRIFT": 25,
-        "Fishers": 23,
+        "Fishers": 24,
         "HPH": 11,
         "LYON": 41,
         "MPV": 17,
         "Metz17": 16,
         "PBW": 8,
         "POT": 43,
-        "PPJ": 34,
+        "PPJ": 41,
         "RCBW": 27,
         "SHB": 17,
         "SYN": 15,
@@ -10535,7 +10535,7 @@
   ],
   "diagnostics": {
     "rosterPlayers": 375,
-    "matchedPlayers": 102,
-    "notYetAppeared": 273
+    "matchedPlayers": 106,
+    "notYetAppeared": 269
   }
 }
