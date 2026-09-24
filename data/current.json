@@ -4,53 +4,53 @@
   "seasonLabel": "2026–27",
   "preseasonStart": "2026-09-19",
   "preseasonEnd": "2026-09-26",
-  "updatedAt": "2026-09-23T15:09:06.243Z",
-  "completedThrough": "2026-09-22",
-  "gamesProcessed": 32,
+  "updatedAt": "2026-09-24T15:24:12.646Z",
+  "completedThrough": "2026-09-23",
+  "gamesProcessed": 36,
   "scheduledGames": 65,
   "standings": [
-    {
-      "teamCode": "BIB",
-      "teamName": "Bowness Ice Beavers",
-      "primary": "#6b351b",
-      "accent": "#d9a66f",
-      "totalPoints": 92,
-      "nightPoints": 58,
-      "playersAppeared": 14,
-      "rosterSize": 22,
-      "topScorer": {
-        "name": "Matthew Schaefer",
-        "points": 14
-      },
-      "rank": 1
-    },
     {
       "teamCode": "POT",
       "teamName": "Potomac Poutine",
       "primary": "#7b1e2d",
       "accent": "#e2b84c",
-      "totalPoints": 92,
-      "nightPoints": 38,
+      "totalPoints": 109,
+      "nightPoints": 17,
       "playersAppeared": 20,
       "rosterSize": 22,
       "topScorer": {
         "name": "Beckett Sennecke",
         "points": 19
       },
-      "rank": 2
+      "rank": 1
     },
     {
       "teamCode": "LYON",
       "teamName": "Les Rois de Lyon",
       "primary": "#172f6b",
       "accent": "#d6b65d",
-      "totalPoints": 90,
-      "nightPoints": 40,
-      "playersAppeared": 15,
+      "totalPoints": 102,
+      "nightPoints": 12,
+      "playersAppeared": 16,
       "rosterSize": 24,
       "topScorer": {
         "name": "Brady Tkachuk",
         "points": 24
+      },
+      "rank": 2
+    },
+    {
+      "teamCode": "BIB",
+      "teamName": "Bowness Ice Beavers",
+      "primary": "#6b351b",
+      "accent": "#d9a66f",
+      "totalPoints": 99,
+      "nightPoints": 7,
+      "playersAppeared": 15,
+      "rosterSize": 22,
+      "topScorer": {
+        "name": "Matthew Schaefer",
+        "points": 14
       },
       "rank": 3
     },
@@ -60,7 +60,7 @@
       "primary": "#20334f",
       "accent": "#9fb2cb",
       "totalPoints": 76,
-      "nightPoints": 28,
+      "nightPoints": 0,
       "playersAppeared": 16,
       "rosterSize": 23,
       "topScorer": {
@@ -70,17 +70,17 @@
       "rank": 4
     },
     {
-      "teamCode": "Fishers",
-      "teamName": "Steel Valley Fishercats",
-      "primary": "#2b3037",
-      "accent": "#e0aa3e",
-      "totalPoints": 73,
-      "nightPoints": 14,
-      "playersAppeared": 16,
-      "rosterSize": 24,
+      "teamCode": "RCBW",
+      "teamName": "Rockaway Brattwursts",
+      "primary": "#5a2317",
+      "accent": "#e1a650",
+      "totalPoints": 75,
+      "nightPoints": 23,
+      "playersAppeared": 18,
+      "rosterSize": 23,
       "topScorer": {
-        "name": "Bryan Rust",
-        "points": 15
+        "name": "Auston Matthews",
+        "points": 17
       },
       "rank": 5
     },
@@ -89,9 +89,9 @@
       "teamName": "Pennant Pumpjacks",
       "primary": "#8a3c16",
       "accent": "#e4b84d",
-      "totalPoints": 71,
-      "nightPoints": 12,
-      "playersAppeared": 16,
+      "totalPoints": 73,
+      "nightPoints": 2,
+      "playersAppeared": 17,
       "rosterSize": 26,
       "topScorer": {
         "name": "Cole Caufield",
@@ -100,17 +100,17 @@
       "rank": 6
     },
     {
-      "teamCode": "SYN",
-      "teamName": "Synth City Sphynx",
-      "primary": "#5b267c",
-      "accent": "#e69bb7",
-      "totalPoints": 65,
-      "nightPoints": 37,
-      "playersAppeared": 18,
-      "rosterSize": 23,
+      "teamCode": "Fishers",
+      "teamName": "Steel Valley Fishercats",
+      "primary": "#2b3037",
+      "accent": "#e0aa3e",
+      "totalPoints": 73,
+      "nightPoints": 0,
+      "playersAppeared": 16,
+      "rosterSize": 24,
       "topScorer": {
-        "name": "Noah Ostlund",
-        "points": 11
+        "name": "Bryan Rust",
+        "points": 15
       },
       "rank": 7
     },
@@ -119,30 +119,60 @@
       "teamName": "Cantuar Slough Sharks",
       "primary": "#0b5666",
       "accent": "#69c3cc",
-      "totalPoints": 63,
-      "nightPoints": 24,
+      "totalPoints": 71,
+      "nightPoints": 8,
+      "playersAppeared": 20,
+      "rosterSize": 23,
+      "topScorer": {
+        "name": "Dylan Cozens",
+        "points": 13
+      },
+      "rank": 8
+    },
+    {
+      "teamCode": "SYN",
+      "teamName": "Synth City Sphynx",
+      "primary": "#5b267c",
+      "accent": "#e69bb7",
+      "totalPoints": 69,
+      "nightPoints": 4,
       "playersAppeared": 18,
       "rosterSize": 23,
       "topScorer": {
-        "name": "Andrei Vasilevskiy",
-        "points": 10
+        "name": "Noah Ostlund",
+        "points": 11
       },
-      "rank": 8
+      "rank": 9
     },
     {
       "teamCode": "Metz17",
       "teamName": "Scotty",
       "primary": "#195f5f",
       "accent": "#d9e4df",
-      "totalPoints": 62,
-      "nightPoints": 13,
-      "playersAppeared": 15,
+      "totalPoints": 68,
+      "nightPoints": 6,
+      "playersAppeared": 16,
       "rosterSize": 24,
       "topScorer": {
         "name": "Bowen Byram",
         "points": 20
       },
-      "rank": 9
+      "rank": 10
+    },
+    {
+      "teamCode": "MPV",
+      "teamName": "Mt. Pearl Vikings",
+      "primary": "#412564",
+      "accent": "#d8b15c",
+      "totalPoints": 59,
+      "nightPoints": 17,
+      "playersAppeared": 16,
+      "rosterSize": 23,
+      "topScorer": {
+        "name": "John Tavares",
+        "points": 16
+      },
+      "rank": 11
     },
     {
       "teamCode": "SHB",
@@ -150,14 +180,14 @@
       "primary": "#171717",
       "accent": "#c43d3d",
       "totalPoints": 56,
-      "nightPoints": 22,
+      "nightPoints": 0,
       "playersAppeared": 11,
       "rosterSize": 23,
       "topScorer": {
         "name": "Dustin Wolf",
         "points": 10
       },
-      "rank": 10
+      "rank": 12
     },
     {
       "teamCode": "WWP",
@@ -165,29 +195,14 @@
       "primary": "#bf423b",
       "accent": "#87d8c3",
       "totalPoints": 55,
-      "nightPoints": 19,
+      "nightPoints": 0,
       "playersAppeared": 16,
       "rosterSize": 25,
       "topScorer": {
         "name": "Lane Hutson",
         "points": 19
       },
-      "rank": 11
-    },
-    {
-      "teamCode": "RCBW",
-      "teamName": "Rockaway Brattwursts",
-      "primary": "#5a2317",
-      "accent": "#e1a650",
-      "totalPoints": 52,
-      "nightPoints": 19,
-      "playersAppeared": 15,
-      "rosterSize": 23,
-      "topScorer": {
-        "name": "Ukko-Pekka Luukkonen",
-        "points": 11
-      },
-      "rank": 12
+      "rank": 13
     },
     {
       "teamCode": "ACC",
@@ -195,41 +210,26 @@
       "primary": "#0f4c3a",
       "accent": "#d9a441",
       "totalPoints": 50,
-      "nightPoints": 29,
+      "nightPoints": 0,
       "playersAppeared": 13,
       "rosterSize": 23,
       "topScorer": {
         "name": "Owen Power",
         "points": 11
       },
-      "rank": 13
+      "rank": 14
     },
     {
       "teamCode": "PBW",
       "teamName": "Pacifica Blackwall",
       "primary": "#111827",
       "accent": "#42b7c8",
-      "totalPoints": 46,
-      "nightPoints": 25,
-      "playersAppeared": 14,
+      "totalPoints": 48,
+      "nightPoints": 2,
+      "playersAppeared": 15,
       "rosterSize": 23,
       "topScorer": {
         "name": "Tage Thompson",
-        "points": 8
-      },
-      "rank": 14
-    },
-    {
-      "teamCode": "MPV",
-      "teamName": "Mt. Pearl Vikings",
-      "primary": "#412564",
-      "accent": "#d8b15c",
-      "totalPoints": 42,
-      "nightPoints": 8,
-      "playersAppeared": 16,
-      "rosterSize": 23,
-      "topScorer": {
-        "name": "Timo Meier",
         "points": 8
       },
       "rank": 15
@@ -240,7 +240,7 @@
       "primary": "#174b62",
       "accent": "#9fd6dd",
       "totalPoints": 31,
-      "nightPoints": 15,
+      "nightPoints": 0,
       "playersAppeared": 15,
       "rosterSize": 24,
       "topScorer": {
@@ -265,7 +265,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8482671.png",
           "appeared": true,
           "points": 11,
-          "nightPoints": 11,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -319,7 +319,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8484145.png",
           "appeared": true,
           "points": 6,
-          "nightPoints": 6,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -373,7 +373,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8483431.png",
           "appeared": true,
           "points": 5,
-          "nightPoints": 5,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -400,7 +400,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8474600.png",
           "appeared": true,
           "points": 4,
-          "nightPoints": 4,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -481,7 +481,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8475158.png",
           "appeared": true,
           "points": 3,
-          "nightPoints": 3,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -893,7 +893,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8485366.png",
           "appeared": true,
           "points": 14,
-          "nightPoints": 14,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 1,
@@ -920,7 +920,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8485385.png",
           "appeared": true,
           "points": 12,
-          "nightPoints": 3,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 1,
@@ -947,7 +947,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8479394.png",
           "appeared": true,
           "points": 10,
-          "nightPoints": 10,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -974,7 +974,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8484388.png",
           "appeared": true,
           "points": 10,
-          "nightPoints": 10,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 1,
@@ -1001,7 +1001,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484223.png",
           "appeared": true,
           "points": 9,
-          "nightPoints": 6,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 1,
@@ -1074,6 +1074,33 @@
           }
         },
         {
+          "name": "Tim Stutzle",
+          "rosterPosition": "F",
+          "nhlId": 8482116,
+          "nhlPosition": "C",
+          "nhlTeam": "OTT",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8482116.png",
+          "appeared": true,
+          "points": 7,
+          "nightPoints": 7,
+          "stats": {
+            "games": 1,
+            "goals": 1,
+            "assists": 0,
+            "blocks": 2,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
           "name": "Morgan Geekie",
           "rosterPosition": "F",
           "nhlId": 8479987,
@@ -1082,7 +1109,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8479987.png",
           "appeared": true,
           "points": 6,
-          "nightPoints": 6,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 1,
@@ -1109,7 +1136,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8482699.png",
           "appeared": true,
           "points": 5,
-          "nightPoints": 5,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -1163,7 +1190,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8476454.png",
           "appeared": true,
           "points": 3,
-          "nightPoints": 3,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -1244,7 +1271,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8476434.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -1425,33 +1452,6 @@
           }
         },
         {
-          "name": "Tim Stutzle",
-          "rosterPosition": "F",
-          "nhlId": null,
-          "nhlPosition": "F",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
-          "points": 0,
-          "nightPoints": 0,
-          "stats": {
-            "games": 0,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 0,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
           "name": "Wyatt Cullen",
           "rosterPosition": "F",
           "nhlId": null,
@@ -1486,6 +1486,33 @@
       "accent": "#69c3cc",
       "players": [
         {
+          "name": "Dylan Cozens",
+          "rosterPosition": "F",
+          "nhlId": 8481528,
+          "nhlPosition": "C",
+          "nhlTeam": "OTT",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8481528.png",
+          "appeared": true,
+          "points": 13,
+          "nightPoints": 5,
+          "stats": {
+            "games": 2,
+            "goals": 2,
+            "assists": 1,
+            "blocks": 0,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
           "name": "Andrei Vasilevskiy",
           "rosterPosition": "G",
           "nhlId": 8476883,
@@ -1506,33 +1533,6 @@
             "wins": 1,
             "starts": 1,
             "goalsAgainst": 1,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
-          "name": "Dylan Cozens",
-          "rosterPosition": "F",
-          "nhlId": 8481528,
-          "nhlPosition": "C",
-          "nhlTeam": "OTT",
-          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8481528.png",
-          "appeared": true,
-          "points": 8,
-          "nightPoints": 0,
-          "stats": {
-            "games": 1,
-            "goals": 1,
-            "assists": 1,
-            "blocks": 0,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
             "losses": 0,
             "shutouts": 0,
             "otLosses": 0,
@@ -1602,7 +1602,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8481604.png",
           "appeared": true,
           "points": 5,
-          "nightPoints": 5,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 1,
@@ -1629,7 +1629,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8476483.png",
           "appeared": true,
           "points": 5,
-          "nightPoints": 5,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 1,
@@ -1656,7 +1656,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8477956.png",
           "appeared": true,
           "points": 4,
-          "nightPoints": 4,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -1683,7 +1683,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8478013.png",
           "appeared": true,
           "points": 4,
-          "nightPoints": 4,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -1729,6 +1729,33 @@
           }
         },
         {
+          "name": "Jesper Wallstedt",
+          "rosterPosition": "G",
+          "nhlId": 8482661,
+          "nhlPosition": "G",
+          "nhlTeam": "MIN",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8482661.png",
+          "appeared": true,
+          "points": 3,
+          "nightPoints": 3,
+          "stats": {
+            "games": 1,
+            "goals": 0,
+            "assists": 0,
+            "blocks": 0,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 1,
+            "goalsAgainst": 2,
+            "losses": 1,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
           "name": "Jordan Binnington",
           "rosterPosition": "G",
           "nhlId": 8476412,
@@ -1764,7 +1791,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8482659.png",
           "appeared": true,
           "points": 3,
-          "nightPoints": 3,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -1791,7 +1818,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8486074.png",
           "appeared": true,
           "points": 2,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -1845,7 +1872,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8476887.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -1872,7 +1899,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8483455.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -1945,44 +1972,17 @@
           }
         },
         {
-          "name": "Jesper Wallstedt",
-          "rosterPosition": "G",
-          "nhlId": null,
-          "nhlPosition": "G",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
-          "points": 0,
-          "nightPoints": 0,
-          "stats": {
-            "games": 0,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 0,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
           "name": "Lian Bichsel",
           "rosterPosition": "D",
-          "nhlId": null,
+          "nhlId": 8483425,
           "nhlPosition": "D",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
+          "nhlTeam": "DAL",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8483425.png",
+          "appeared": true,
           "points": 0,
           "nightPoints": 0,
           "stats": {
-            "games": 0,
+            "games": 1,
             "goals": 0,
             "assists": 0,
             "blocks": 0,
@@ -2176,7 +2176,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8474593.png",
           "appeared": true,
           "points": 10,
-          "nightPoints": 2,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -2203,7 +2203,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484380.png",
           "appeared": true,
           "points": 10,
-          "nightPoints": 10,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 1,
@@ -2230,7 +2230,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8484779.png",
           "appeared": true,
           "points": 8,
-          "nightPoints": 4,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -2284,7 +2284,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8477951.png",
           "appeared": true,
           "points": 6,
-          "nightPoints": 6,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 1,
@@ -2311,7 +2311,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8476468.png",
           "appeared": true,
           "points": 3,
-          "nightPoints": 3,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -2365,7 +2365,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8475786.png",
           "appeared": true,
           "points": 3,
-          "nightPoints": 3,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -2777,7 +2777,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8484203.png",
           "appeared": true,
           "points": 11,
-          "nightPoints": 5,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 2,
@@ -2858,7 +2858,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8484768.png",
           "appeared": true,
           "points": 8,
-          "nightPoints": 7,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -3047,7 +3047,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8476885.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -3074,7 +3074,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8485388.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -3432,7 +3432,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8480434.png",
           "appeared": true,
           "points": 8,
-          "nightPoints": 8,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -3459,7 +3459,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8475753.png",
           "appeared": true,
           "points": 4,
-          "nightPoints": 4,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -3486,7 +3486,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8478401.png",
           "appeared": true,
           "points": 3,
-          "nightPoints": 3,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -3621,7 +3621,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8480807.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -4026,7 +4026,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8481551.png",
           "appeared": true,
           "points": -1,
-          "nightPoints": -1,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -4060,7 +4060,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8480801.png",
           "appeared": true,
           "points": 24,
-          "nightPoints": 8,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 3,
@@ -4087,7 +4087,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484794.png",
           "appeared": true,
           "points": 11,
-          "nightPoints": 11,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 2,
@@ -4133,6 +4133,33 @@
           }
         },
         {
+          "name": "Jake McCabe",
+          "rosterPosition": "D",
+          "nhlId": 8476931,
+          "nhlPosition": "D",
+          "nhlTeam": "TOR",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8476931.png",
+          "appeared": true,
+          "points": 7,
+          "nightPoints": 6,
+          "stats": {
+            "games": 2,
+            "goals": 1,
+            "assists": 0,
+            "blocks": 2,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
           "name": "Mikhail Sergachev",
           "rosterPosition": "D",
           "nhlId": 8479410,
@@ -4141,7 +4168,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8479410.png",
           "appeared": true,
           "points": 7,
-          "nightPoints": 7,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -4187,6 +4214,33 @@
           }
         },
         {
+          "name": "Esa Lindell",
+          "rosterPosition": "D",
+          "nhlId": 8476902,
+          "nhlPosition": "D",
+          "nhlTeam": "DAL",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8476902.png",
+          "appeared": true,
+          "points": 6,
+          "nightPoints": 6,
+          "stats": {
+            "games": 1,
+            "goals": 1,
+            "assists": 0,
+            "blocks": 1,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
           "name": "Trey Augustine",
           "rosterPosition": "G",
           "nhlId": 8484141,
@@ -4195,7 +4249,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484141.png",
           "appeared": true,
           "points": 6,
-          "nightPoints": 6,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -4222,7 +4276,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8477960.png",
           "appeared": true,
           "points": 5,
-          "nightPoints": 5,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -4357,7 +4411,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8484797.png",
           "appeared": true,
           "points": 3,
-          "nightPoints": 3,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -4382,33 +4436,6 @@
           "nhlPosition": "C",
           "nhlTeam": "TBL",
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8477404.png",
-          "appeared": true,
-          "points": 1,
-          "nightPoints": 0,
-          "stats": {
-            "games": 1,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 1,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
-          "name": "Jake McCabe",
-          "rosterPosition": "D",
-          "nhlId": 8476931,
-          "nhlPosition": "D",
-          "nhlTeam": "TOR",
-          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8476931.png",
           "appeared": true,
           "points": 1,
           "nightPoints": 0,
@@ -4515,33 +4542,6 @@
           "rosterPosition": "G",
           "nhlId": null,
           "nhlPosition": "G",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
-          "points": 0,
-          "nightPoints": 0,
-          "stats": {
-            "games": 0,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 0,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
-          "name": "Esa Lindell",
-          "rosterPosition": "D",
-          "nhlId": null,
-          "nhlPosition": "D",
           "nhlTeam": "",
           "headshot": "",
           "appeared": false,
@@ -4707,6 +4707,33 @@
       "accent": "#d8b15c",
       "players": [
         {
+          "name": "John Tavares",
+          "rosterPosition": "F",
+          "nhlId": 8475166,
+          "nhlPosition": "C",
+          "nhlTeam": "TOR",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8475166.png",
+          "appeared": true,
+          "points": 16,
+          "nightPoints": 12,
+          "stats": {
+            "games": 2,
+            "goals": 1,
+            "assists": 3,
+            "blocks": 0,
+            "powerPlayPoints": 2,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
           "name": "Timo Meier",
           "rosterPosition": "F",
           "nhlId": 8478414,
@@ -4734,6 +4761,33 @@
           }
         },
         {
+          "name": "William Nylander",
+          "rosterPosition": "F",
+          "nhlId": 8477939,
+          "nhlPosition": "R",
+          "nhlTeam": "TOR",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8477939.png",
+          "appeared": true,
+          "points": 7,
+          "nightPoints": 5,
+          "stats": {
+            "games": 2,
+            "goals": 0,
+            "assists": 1,
+            "blocks": 4,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
           "name": "Rutger McGroarty",
           "rosterPosition": "F",
           "nhlId": 8483487,
@@ -4742,7 +4796,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8483487.png",
           "appeared": true,
           "points": 6,
-          "nightPoints": 6,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 1,
@@ -4803,33 +4857,6 @@
             "assists": 1,
             "blocks": 1,
             "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
-          "name": "John Tavares",
-          "rosterPosition": "F",
-          "nhlId": 8475166,
-          "nhlPosition": "C",
-          "nhlTeam": "TOR",
-          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8475166.png",
-          "appeared": true,
-          "points": 4,
-          "nightPoints": 0,
-          "stats": {
-            "games": 1,
-            "goals": 0,
-            "assists": 1,
-            "blocks": 0,
-            "powerPlayPoints": 1,
             "shorthandedPoints": 0,
             "hatTricks": 0,
             "wins": 0,
@@ -4931,7 +4958,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8482221.png",
           "appeared": true,
           "points": 2,
-          "nightPoints": 2,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -4943,33 +4970,6 @@
             "wins": 0,
             "starts": 1,
             "goalsAgainst": 1,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
-          "name": "William Nylander",
-          "rosterPosition": "F",
-          "nhlId": 8477939,
-          "nhlPosition": "R",
-          "nhlTeam": "TOR",
-          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8477939.png",
-          "appeared": true,
-          "points": 2,
-          "nightPoints": 0,
-          "stats": {
-            "games": 1,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 2,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
             "losses": 0,
             "shutouts": 0,
             "otLosses": 0,
@@ -5370,7 +5370,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8477493.png",
           "appeared": true,
           "points": 17,
-          "nightPoints": 8,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 2,
@@ -5403,6 +5403,33 @@
             "goals": 0,
             "assists": 2,
             "blocks": 2,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
+          "name": "Morgan Rielly",
+          "rosterPosition": "D",
+          "nhlId": 8476853,
+          "nhlPosition": "D",
+          "nhlTeam": "TOR",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8476853.png",
+          "appeared": true,
+          "points": 6,
+          "nightPoints": 6,
+          "stats": {
+            "games": 1,
+            "goals": 1,
+            "assists": 0,
+            "blocks": 1,
             "powerPlayPoints": 0,
             "shorthandedPoints": 0,
             "hatTricks": 0,
@@ -5478,7 +5505,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8482166.png",
           "appeared": true,
           "points": 3,
-          "nightPoints": 3,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -5586,7 +5613,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8476459.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -5613,7 +5640,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8471675.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -5848,33 +5875,6 @@
           }
         },
         {
-          "name": "Morgan Rielly",
-          "rosterPosition": "D",
-          "nhlId": null,
-          "nhlPosition": "D",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
-          "points": 0,
-          "nightPoints": 0,
-          "stats": {
-            "games": 0,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 0,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
           "name": "Noah Laba",
           "rosterPosition": "F",
           "nhlId": null,
@@ -5998,7 +5998,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8479420.png",
           "appeared": true,
           "points": 8,
-          "nightPoints": 8,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 1,
@@ -6079,7 +6079,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8477933.png",
           "appeared": true,
           "points": 5,
-          "nightPoints": 4,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -6106,7 +6106,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8482137.png",
           "appeared": true,
           "points": 5,
-          "nightPoints": 5,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -6133,7 +6133,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8485957.png",
           "appeared": true,
           "points": 4,
-          "nightPoints": 4,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -6160,7 +6160,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8486103.png",
           "appeared": true,
           "points": 4,
-          "nightPoints": 4,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -6220,6 +6220,33 @@
             "goals": 0,
             "assists": 1,
             "blocks": 0,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
+          "name": "Miro Heiskanen",
+          "rosterPosition": "D",
+          "nhlId": 8480036,
+          "nhlPosition": "D",
+          "nhlTeam": "DAL",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8480036.png",
+          "appeared": true,
+          "points": 2,
+          "nightPoints": 2,
+          "stats": {
+            "games": 1,
+            "goals": 0,
+            "assists": 0,
+            "blocks": 2,
             "powerPlayPoints": 0,
             "shorthandedPoints": 0,
             "hatTricks": 0,
@@ -6459,34 +6486,7 @@
           "points": 0,
           "nightPoints": 0,
           "stats": {
-            "games": 1,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 0,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
-          "name": "Miro Heiskanen",
-          "rosterPosition": "D",
-          "nhlId": null,
-          "nhlPosition": "D",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
-          "points": 0,
-          "nightPoints": 0,
-          "stats": {
-            "games": 0,
+            "games": 2,
             "goals": 0,
             "assists": 0,
             "blocks": 0,
@@ -6652,19 +6652,46 @@
           "nhlTeam": "TOR",
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8478178.png",
           "appeared": true,
-          "points": 10,
-          "nightPoints": 0,
+          "points": 14,
+          "nightPoints": 4,
           "stats": {
-            "games": 1,
+            "games": 2,
             "goals": 1,
-            "assists": 0,
-            "blocks": 4,
+            "assists": 1,
+            "blocks": 5,
             "powerPlayPoints": 1,
             "shorthandedPoints": 0,
             "hatTricks": 0,
             "wins": 0,
             "starts": 0,
             "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
+          "name": "Sergei Bobrovsky",
+          "rosterPosition": "G",
+          "nhlId": 8475683,
+          "nhlPosition": "G",
+          "nhlTeam": "TOR",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8475683.png",
+          "appeared": true,
+          "points": 12,
+          "nightPoints": 10,
+          "stats": {
+            "games": 2,
+            "goals": 0,
+            "assists": 0,
+            "blocks": 0,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 1,
+            "starts": 2,
+            "goalsAgainst": 2,
             "losses": 0,
             "shutouts": 0,
             "otLosses": 0,
@@ -6707,7 +6734,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8479343.png",
           "appeared": true,
           "points": 8,
-          "nightPoints": 8,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 1,
@@ -6734,7 +6761,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8484860.png",
           "appeared": true,
           "points": 8,
-          "nightPoints": 8,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -6761,7 +6788,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8485402.png",
           "appeared": true,
           "points": 8,
-          "nightPoints": 8,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 1,
@@ -6807,17 +6834,17 @@
           }
         },
         {
-          "name": "MacKenzie Weegar",
-          "rosterPosition": "D",
-          "nhlId": 8477346,
-          "nhlPosition": "D",
-          "nhlTeam": "UTA",
-          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8477346.png",
+          "name": "Easton Cowan",
+          "rosterPosition": "F",
+          "nhlId": 8484158,
+          "nhlPosition": "R",
+          "nhlTeam": "TOR",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8484158.png",
           "appeared": true,
           "points": 7,
-          "nightPoints": 7,
+          "nightPoints": 3,
           "stats": {
-            "games": 1,
+            "games": 2,
             "goals": 0,
             "assists": 2,
             "blocks": 0,
@@ -6834,19 +6861,19 @@
           }
         },
         {
-          "name": "Easton Cowan",
-          "rosterPosition": "F",
-          "nhlId": 8484158,
-          "nhlPosition": "R",
-          "nhlTeam": "TOR",
-          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8484158.png",
+          "name": "MacKenzie Weegar",
+          "rosterPosition": "D",
+          "nhlId": 8477346,
+          "nhlPosition": "D",
+          "nhlTeam": "UTA",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8477346.png",
           "appeared": true,
-          "points": 4,
+          "points": 7,
           "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
-            "assists": 1,
+            "assists": 2,
             "blocks": 0,
             "powerPlayPoints": 1,
             "shorthandedPoints": 0,
@@ -6869,7 +6896,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8482124.png",
           "appeared": true,
           "points": 4,
-          "nightPoints": 4,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -6888,33 +6915,6 @@
           }
         },
         {
-          "name": "Sergei Bobrovsky",
-          "rosterPosition": "G",
-          "nhlId": 8475683,
-          "nhlPosition": "G",
-          "nhlTeam": "TOR",
-          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8475683.png",
-          "appeared": true,
-          "points": 2,
-          "nightPoints": 0,
-          "stats": {
-            "games": 1,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 0,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 1,
-            "goalsAgainst": 1,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
           "name": "Alexis Lafreniere",
           "rosterPosition": "F",
           "nhlId": 8482109,
@@ -6923,7 +6923,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8482109.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -6950,7 +6950,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8483548.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -6977,7 +6977,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8484210.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -7114,7 +7114,7 @@
           "points": 0,
           "nightPoints": 0,
           "stats": {
-            "games": 1,
+            "games": 2,
             "goals": 0,
             "assists": 0,
             "blocks": 0,
@@ -7389,7 +7389,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8477500.png",
           "appeared": true,
           "points": 4,
-          "nightPoints": 4,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -7443,7 +7443,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484160.png",
           "appeared": true,
           "points": 3,
-          "nightPoints": 3,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -7497,6 +7497,33 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8480947.png",
           "appeared": true,
           "points": 2,
+          "nightPoints": 0,
+          "stats": {
+            "games": 1,
+            "goals": 0,
+            "assists": 0,
+            "blocks": 0,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 1,
+            "goalsAgainst": 3,
+            "losses": 1,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
+          "name": "Linus Ullmark",
+          "rosterPosition": "G",
+          "nhlId": 8476999,
+          "nhlPosition": "G",
+          "nhlTeam": "OTT",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8476999.png",
+          "appeared": true,
+          "points": 2,
           "nightPoints": 2,
           "stats": {
             "games": 1,
@@ -7524,7 +7551,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8484240.png",
           "appeared": true,
           "points": 2,
-          "nightPoints": 2,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -7551,7 +7578,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8478048.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -7759,33 +7786,6 @@
           }
         },
         {
-          "name": "Linus Ullmark",
-          "rosterPosition": "G",
-          "nhlId": null,
-          "nhlPosition": "G",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
-          "points": 0,
-          "nightPoints": 0,
-          "stats": {
-            "games": 0,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 0,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
           "name": "Nathan MacKinnon",
           "rosterPosition": "F",
           "nhlId": null,
@@ -7850,7 +7850,7 @@
           "points": 0,
           "nightPoints": 0,
           "stats": {
-            "games": 1,
+            "games": 2,
             "goals": 0,
             "assists": 0,
             "blocks": 0,
@@ -7928,6 +7928,33 @@
       "accent": "#e1a650",
       "players": [
         {
+          "name": "Auston Matthews",
+          "rosterPosition": "F",
+          "nhlId": 8479318,
+          "nhlPosition": "C",
+          "nhlTeam": "TOR",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8479318.png",
+          "appeared": true,
+          "points": 17,
+          "nightPoints": 13,
+          "stats": {
+            "games": 2,
+            "goals": 1,
+            "assists": 3,
+            "blocks": 1,
+            "powerPlayPoints": 2,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
           "name": "Ukko-Pekka Luukkonen",
           "rosterPosition": "G",
           "nhlId": 8480045,
@@ -7936,7 +7963,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8480045.png",
           "appeared": true,
           "points": 11,
-          "nightPoints": 11,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -7990,7 +8017,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8480064.png",
           "appeared": true,
           "points": 6,
-          "nightPoints": 6,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 1,
@@ -8009,21 +8036,21 @@
           }
         },
         {
-          "name": "Auston Matthews",
+          "name": "Alex Laferriere",
           "rosterPosition": "F",
-          "nhlId": 8479318,
-          "nhlPosition": "C",
-          "nhlTeam": "TOR",
-          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8479318.png",
+          "nhlId": 8482155,
+          "nhlPosition": "R",
+          "nhlTeam": "LAK",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8482155.png",
           "appeared": true,
-          "points": 4,
-          "nightPoints": 0,
+          "points": 5,
+          "nightPoints": 5,
           "stats": {
             "games": 1,
-            "goals": 0,
-            "assists": 1,
+            "goals": 1,
+            "assists": 0,
             "blocks": 0,
-            "powerPlayPoints": 1,
+            "powerPlayPoints": 0,
             "shorthandedPoints": 0,
             "hatTricks": 0,
             "wins": 0,
@@ -8071,7 +8098,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8484770.png",
           "appeared": true,
           "points": 4,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -8144,6 +8171,33 @@
           }
         },
         {
+          "name": "Lukas Dostal",
+          "rosterPosition": "G",
+          "nhlId": 8480843,
+          "nhlPosition": "G",
+          "nhlTeam": "ANA",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8480843.png",
+          "appeared": true,
+          "points": 3,
+          "nightPoints": 3,
+          "stats": {
+            "games": 1,
+            "goals": 0,
+            "assists": 0,
+            "blocks": 0,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 1,
+            "goalsAgainst": 2,
+            "losses": 1,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
           "name": "Martin Necas",
           "rosterPosition": "F",
           "nhlId": 8480039,
@@ -8158,6 +8212,33 @@
             "goals": 0,
             "assists": 1,
             "blocks": 0,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
+          "name": "Pavel Mintyukov",
+          "rosterPosition": "D",
+          "nhlId": 8483490,
+          "nhlPosition": "D",
+          "nhlTeam": "ANA",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8483490.png",
+          "appeared": true,
+          "points": 2,
+          "nightPoints": 2,
+          "stats": {
+            "games": 1,
+            "goals": 0,
+            "assists": 0,
+            "blocks": 2,
             "powerPlayPoints": 0,
             "shorthandedPoints": 0,
             "hatTricks": 0,
@@ -8233,7 +8314,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8483731.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -8266,33 +8347,6 @@
             "goals": 0,
             "assists": 0,
             "blocks": 1,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
-          "name": "Alex Laferriere",
-          "rosterPosition": "F",
-          "nhlId": null,
-          "nhlPosition": "F",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
-          "points": 0,
-          "nightPoints": 0,
-          "stats": {
-            "games": 0,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 0,
             "powerPlayPoints": 0,
             "shorthandedPoints": 0,
             "hatTricks": 0,
@@ -8387,33 +8441,6 @@
           }
         },
         {
-          "name": "Lukas Dostal",
-          "rosterPosition": "G",
-          "nhlId": null,
-          "nhlPosition": "G",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
-          "points": 0,
-          "nightPoints": 0,
-          "stats": {
-            "games": 0,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 0,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
           "name": "Oliver Moore",
           "rosterPosition": "F",
           "nhlId": 8484197,
@@ -8425,33 +8452,6 @@
           "nightPoints": 0,
           "stats": {
             "games": 1,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 0,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
-          "name": "Pavel Mintyukov",
-          "rosterPosition": "D",
-          "nhlId": null,
-          "nhlPosition": "D",
-          "nhlTeam": "",
-          "headshot": "",
-          "appeared": false,
-          "points": 0,
-          "nightPoints": 0,
-          "stats": {
-            "games": 0,
             "goals": 0,
             "assists": 0,
             "blocks": 0,
@@ -8564,7 +8564,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8481692.png",
           "appeared": true,
           "points": 10,
-          "nightPoints": 10,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -8591,7 +8591,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8480280.png",
           "appeared": true,
           "points": 10,
-          "nightPoints": 10,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -8807,7 +8807,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8480839.png",
           "appeared": true,
           "points": 2,
-          "nightPoints": 2,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -8944,7 +8944,7 @@
           "points": 0,
           "nightPoints": 0,
           "stats": {
-            "games": 1,
+            "games": 2,
             "goals": 0,
             "assists": 0,
             "blocks": 0,
@@ -9192,7 +9192,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8483500.png",
           "appeared": true,
           "points": 11,
-          "nightPoints": 11,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 2,
@@ -9219,7 +9219,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8482730.png",
           "appeared": true,
           "points": 10,
-          "nightPoints": 10,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 1,
@@ -9273,7 +9273,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8478872.png",
           "appeared": true,
           "points": 8,
-          "nightPoints": 8,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -9300,7 +9300,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8477495.png",
           "appeared": true,
           "points": 5,
-          "nightPoints": 5,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -9329,7 +9329,7 @@
           "points": 5,
           "nightPoints": 0,
           "stats": {
-            "games": 1,
+            "games": 2,
             "goals": 1,
             "assists": 0,
             "blocks": 0,
@@ -9373,6 +9373,33 @@
           }
         },
         {
+          "name": "Gavin McKenna",
+          "rosterPosition": "F",
+          "nhlId": 8486067,
+          "nhlPosition": "L",
+          "nhlTeam": "TOR",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8486067.png",
+          "appeared": true,
+          "points": 4,
+          "nightPoints": 3,
+          "stats": {
+            "games": 2,
+            "goals": 0,
+            "assists": 1,
+            "blocks": 1,
+            "powerPlayPoints": 0,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
           "name": "Tij Iginla",
           "rosterPosition": "F",
           "nhlId": 8484795,
@@ -9381,13 +9408,40 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8484795.png",
           "appeared": true,
           "points": 4,
-          "nightPoints": 4,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
             "assists": 1,
             "blocks": 0,
             "powerPlayPoints": 1,
+            "shorthandedPoints": 0,
+            "hatTricks": 0,
+            "wins": 0,
+            "starts": 0,
+            "goalsAgainst": 0,
+            "losses": 0,
+            "shutouts": 0,
+            "otLosses": 0,
+            "otWins": 0
+          }
+        },
+        {
+          "name": "Charlie Stramel",
+          "rosterPosition": "F",
+          "nhlId": 8484231,
+          "nhlPosition": "C",
+          "nhlTeam": "MIN",
+          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8484231.png",
+          "appeared": true,
+          "points": 3,
+          "nightPoints": 1,
+          "stats": {
+            "games": 3,
+            "goals": 0,
+            "assists": 0,
+            "blocks": 3,
+            "powerPlayPoints": 0,
             "shorthandedPoints": 0,
             "hatTricks": 0,
             "wins": 0,
@@ -9454,66 +9508,12 @@
           }
         },
         {
-          "name": "Charlie Stramel",
-          "rosterPosition": "F",
-          "nhlId": 8484231,
-          "nhlPosition": "C",
-          "nhlTeam": "MIN",
-          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8484231.png",
-          "appeared": true,
-          "points": 2,
-          "nightPoints": 0,
-          "stats": {
-            "games": 2,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 2,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
           "name": "Artyom Levshunov",
           "rosterPosition": "D",
           "nhlId": 8484783,
           "nhlPosition": "D",
           "nhlTeam": "CHI",
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8484783.png",
-          "appeared": true,
-          "points": 1,
-          "nightPoints": 0,
-          "stats": {
-            "games": 1,
-            "goals": 0,
-            "assists": 0,
-            "blocks": 1,
-            "powerPlayPoints": 0,
-            "shorthandedPoints": 0,
-            "hatTricks": 0,
-            "wins": 0,
-            "starts": 0,
-            "goalsAgainst": 0,
-            "losses": 0,
-            "shutouts": 0,
-            "otLosses": 0,
-            "otWins": 0
-          }
-        },
-        {
-          "name": "Gavin McKenna",
-          "rosterPosition": "F",
-          "nhlId": 8486067,
-          "nhlPosition": "L",
-          "nhlTeam": "TOR",
-          "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8486067.png",
           "appeared": true,
           "points": 1,
           "nightPoints": 0,
@@ -9543,7 +9543,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8485352.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -9786,7 +9786,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8481668.png",
           "appeared": true,
           "points": -2,
-          "nightPoints": -2,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -9847,7 +9847,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8477496.png",
           "appeared": true,
           "points": 7,
-          "nightPoints": 7,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 1,
@@ -9901,7 +9901,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8486091.png",
           "appeared": true,
           "points": 6,
-          "nightPoints": 6,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -9982,7 +9982,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8486092.png",
           "appeared": true,
           "points": 3,
-          "nightPoints": 3,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -10009,7 +10009,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8477935.png",
           "appeared": true,
           "points": 2,
-          "nightPoints": 2,
+          "nightPoints": 0,
           "stats": {
             "games": 2,
             "goals": 0,
@@ -10117,7 +10117,7 @@
           "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8484994.png",
           "appeared": true,
           "points": 1,
-          "nightPoints": 1,
+          "nightPoints": 0,
           "stats": {
             "games": 1,
             "goals": 0,
@@ -10573,11 +10573,32 @@
         "SYN": 65,
         "WWP": 55
       }
+    },
+    {
+      "date": "2026-09-23",
+      "totals": {
+        "ACC": 50,
+        "BIB": 99,
+        "CSS": 71,
+        "DRIFT": 76,
+        "Fishers": 73,
+        "HPH": 31,
+        "LYON": 102,
+        "MPV": 59,
+        "Metz17": 68,
+        "PBW": 48,
+        "POT": 109,
+        "PPJ": 73,
+        "RCBW": 75,
+        "SHB": 56,
+        "SYN": 69,
+        "WWP": 55
+      }
     }
   ],
   "diagnostics": {
     "rosterPlayers": 375,
-    "matchedPlayers": 248,
-    "notYetAppeared": 127
+    "matchedPlayers": 258,
+    "notYetAppeared": 117
   }
 }
